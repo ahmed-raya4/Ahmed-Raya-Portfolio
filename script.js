@@ -433,6 +433,15 @@ function initGallery() {
         'logic': [
             'cont/Logic1.jpg',
             'cont/Logic2.jpg'
+        ],
+        'lightrobot': [
+            'cont/Light-Robot1.jpeg',
+            'cont/light-Robot2.jpeg'
+        ],
+        'tidal': [
+            'cont/Tidal1.jpeg',
+            'cont/tidal2.jpeg',
+            'cont/Tidal3.jpeg'
         ]
     };
     
